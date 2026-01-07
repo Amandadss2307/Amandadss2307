@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Amanda Santos.
   - 😄 Pronomes: Ela/Dela
-  - 🎓 Formada Análise e Desenvolvimento de Sistemas
+  - 🎓 Formada em Análise e Desenvolvimento de Sistemas
   - 🌱 Estudando Javascript e Bootstrap
 
  <div>
